@@ -1,0 +1,9 @@
+FONT FAMILY YANG DIGUNAKAN DALAM PROJECT in-boba alias (Bebas Boba Boba Cafe):
+- Ink Free (BUILT-IN on Windows 10)
+ >> Judul Header "Bebas Boba-boba Cafe"
+- Janda Manatee (Solid + Bubble) / (included in asset)
+ >> "HAVE A BOBA DAY" dan logotype "Bebas" <dua2nya udah dijadikan symbol>
+- Delius (included in asset)
+ >> Accent title and link button
+- Segoe UI (BUILT-IN)
+ >> Text description
