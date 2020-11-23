@@ -1,5 +1,8 @@
-# Multimedia Project: IN BOBA (Alias Bebas Boba Boba Cafe)
-A Multimedia Lab Project in developing Boba drink interactive site using Adobe Animate (HTML5 + JS).
+# Multimedia Project: IN BOBA (*Bebas Boba Boba Cafe*)
+
+<p align="center" style="text-align:center"><img src="logo-bebas-boba-boba.gif" alt="Bebas Boba Boba Logo" title="Bebas Boba Boba Logo"></img></p>
+
+A Multimedia Lab Project in developing Boba drink interactive site using **Adobe Animate CC (HTML5 + JS)**.
 
 ## How to deploy/cara menjalankan project?
 Jalankan dengan browser favorit kalian. Khusus bagi pengguna Chrome, jalankan dengan sistem hosting (bukan dari file langsung untuk mencegah bug) misal dengan menggunakan `localhost`.
@@ -32,8 +35,36 @@ Terdiri dari 8 produk, yaitu:
 
 Tentunya didemonstrasikan dengan cara pemesanan barang dan pemilihan produk serta diputarkan audio background dibelakangnya.
 
+## Screenshot
+
+### Home
+
+![Home](screenshots/home.png)
+
+### About
+
+![About: Team](screenshots/about-team.png)
+
+![About: Location](screenshots/about-location.png)
+
+![About: Boba Culture](screenshots/about-boba-culture.png)
+
+![About: The boba-boba Video](screenshots/about-video.png)
+
+### Menu
+
+![Drink Menu](screenshots/drink-menu.png)
+
+![Drink Menu: Pick Drink Options](screenshots/drink-menu-pick-options.png)
+
+![Drink Menu: Hover topping](screenshots/drink-menu-hovers.jpg)
+
+
 ## Dokumentasi dan Credit
-Untuk dokumentasi dan credit, kunjungi file dokumentasi pada [link ini](./Dokumentasi%20Eksternal%20Bebas%20Boba%20Boba.docx).
+
+<p align="center" style="text-align:center"><img src="boba-day.gif" alt="Have a Boba Day!" title="Have a Boba Day!"></img></p>
+
+Untuk dokumentasi dan credit, kunjungi file dokumentasi pada [link ini](./Dokumentasi%20Eksternal%20Bebas%20Boba%20Boba.docx) dan dokumentasi [CREDITS.md](CREDITS.md).
 
 ## Team Member
 1. 2201730476 - Calvin Leonard King
