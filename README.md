@@ -1,10 +1,13 @@
 # Multimedia Project: IN BOBA (*Bebas Boba Boba Cafe*)
 
-<p align="center" style="text-align:center"><img src="logo-bebas-boba-boba.gif" alt="Bebas Boba Boba Logo" title="Bebas Boba Boba Logo"></img></p>
+<p align="center" style="text-align:center"><a href="https://akmalrusli363.github.io/Multimedia-Project-IN-BOBA/boba-home.html"><img src="logo-bebas-boba-boba.gif" alt="Bebas Boba Boba Logo" title="Bebas Boba Boba Logo"></a></p>
 
 A Multimedia Lab Project in developing Boba drink interactive site using **Adobe Animate CC (HTML5 + JS)**.
 
 ## How to deploy/cara menjalankan project?
+
+[Click here for interactive demo](https://akmalrusli363.github.io/Multimedia-Project-IN-BOBA/boba-home.html)
+
 Jalankan dengan browser favorit kalian. Khusus bagi pengguna Chrome, jalankan dengan sistem hosting (bukan dari file langsung untuk mencegah bug) misal dengan menggunakan `localhost`.
 
 ## Isi Project
